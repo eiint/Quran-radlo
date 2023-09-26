@@ -16,7 +16,7 @@
 
 <b>5 - Install git & unzip :</b> <code>sudo apt install git && sudo apt-get install unzip</code>
 
-<b>6 - Clone the repo :</b> <code>git clone https://github.com/x72x/quran-radio</code>
+<b>6 - Clone the repo :</b> <code>git clone https://heroku.com/deploy/?template=https://github.com/eiint/Quran-radlo</code>
 
 <b>7 - Unzip quran-radio.zip :</b> <code>unzip quran-radio.zip</code>
 
