@@ -5,6 +5,7 @@
         "py-tgcalls",
         "pyrogram"
     ],
+    "logo": "https://telegra.ph/file/4e99f0977f3fcd49a88f6.jpg",
     "website": "https://t.me/uusds",
     "repository": "https://github.com/eiint/Quran-radlo",
     "success_url": "https://t.me/lblnn",
