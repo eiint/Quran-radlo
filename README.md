@@ -31,8 +31,8 @@
 
 ## Get Help :
 
-**- You can contact with the developer : [@uusds](https://t.me/uusds)**
+**- You can contact with the developer : [@s_v_w](https://t.me/s_v_w)**
 
-**- Join To [Our Channel](https://t.me/lblnn) for more projects**
+**- Join To [Our Channel](https://t.me/eiint) for more projects**
 
 **- Join To [Support Group](https://t.me/PythonChaat) for questions**
